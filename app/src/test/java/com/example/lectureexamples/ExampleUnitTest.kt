@@ -1,4 +1,4 @@
-package com.example.movieapp
+package com.example.lectureexamples
 
 import org.junit.Test
 
